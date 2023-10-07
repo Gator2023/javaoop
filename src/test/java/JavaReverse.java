@@ -13,7 +13,7 @@ public class JavaReverse {
         System.out.println(fullname);
     }
 
-    public void paraint(int a, int b) {
+    public void paraint(int a,int b) {
         int c = a + b;
         System.out.println(c);
     }
